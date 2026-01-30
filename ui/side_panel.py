@@ -6,7 +6,7 @@ def side_page(base_dir: Path):
     """Display Pardeep's profile information in the sidebar"""
     
     # Profile photo or initials
-    img_path = base_dir / "assets" / "images" / "photo.png"
+    img_path = base_dir / "assets" / "images" / "pardeep.jpeg"
     if img_path.exists():
         st.image(str(img_path), width=150)
     else:
