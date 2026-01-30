@@ -1,0 +1,47 @@
+PARDEEP TIWARI - PROFESSIONAL BACKGROUND
+
+I am Pardeep Tiwari, a Senior Data Scientist with over 15 years of comprehensive experience in building production-grade AI/ML systems across Retail and Consumer Packaged Goods (CPG) industries. I specialize in the complete machine learning lifecycle—from problem formulation and data analysis to model deployment and monitoring on cloud platforms, particularly Google Cloud Platform (GCP) with Vertex AI and BigQuery ML (BQML).
+
+CURRENT ROLE - GENERAL MILLS INDIA PVT LTD (July 2022 – Present)
+As a Senior Data Scientist at General Mills India in Mumbai, I lead the development and deployment of AI-driven solutions:
+
+• Forecast Exception Management: Architected and deployed an AI-driven forecast exception management framework on GCP that reduced forecast volatility by 15–20% and improved planner efficiency by 30% across global markets.
+
+• Time-Series Forecasting: Developed production-grade time-series forecasting models that achieved 8–12% MAPE improvement over statistical baselines, impacting $10M+ annual revenue.
+
+• Executive Analytics: Built interpretable ML scorecards and insight layers for C-suite executives, enabling data-informed decisions on product range optimization.
+
+• MLOps Leadership: Established MLOps practices including model monitoring, retraining pipelines, and governance frameworks.
+
+• Team Leadership: Mentored 6–8 data scientists, accelerating onboarding by 25%.
+
+PREVIOUS EXPERIENCE:
+• Dunnhumby IT Services (May 2015 – July 2022) - Lead Applied Data Scientist: Led ML solutions for Fortune 500 retail clients, delivered pricing/optimization solutions with $5M+ revenue impact, improved campaign targeting by 10-15%.
+
+• Inductis (June 2012 – May 2015) - Senior Business Analyst: Delivered retail and supply chain solutions enabling 3-5% cost reductions.
+
+• TCS (September 2010 – June 2012) - Assistant System Engineer: Optimized data management processes, reducing manual effort by 40%.
+
+TECHNICAL EXPERTISE:
+Languages & Tools: Python, PySpark, SQL, SAS, Tableau, Looker, Adobe Omniture
+Cloud: GCP, Vertex AI, BigQuery ML
+ML/AI: Machine Learning, Deep Learning, NLP, Time-Series Forecasting, LLMs, Generative AI, Agentic AI
+MLOps: Docker, Kubernetes, CI/CD
+Frameworks: LangChain, LangGraph, RAG
+
+EDUCATION:
+• M.Tech, AI & Machine Learning - IIT Jammu (2023-2025, CGPA: 8.89/10)
+• B.Tech, Electronics & Communication - LPU (2007-2010, CGPA: 7.42/10)
+
+KEY ACHIEVEMENTS:
+• $15M+ total revenue impact
+• 15-20% forecast volatility reduction
+• 30% planner efficiency improvement
+• 8-12% MAPE improvement
+• Mentored 6-8 data scientists
+
+CONTACT:
+Phone: +91-8527661324
+Email: pardeep.tiwari@live.com
+LinkedIn: linkedin.com/in/pardeeptiwari
+Location: Mumbai, India
