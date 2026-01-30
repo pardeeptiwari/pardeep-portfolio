@@ -22,11 +22,11 @@ def ask_bot_stream(input_text: str, bio_context: str, chat_history: List[Dict[st
 
     # Enhanced system instruction with memory awareness
     system_instruction = (
-        "You are AnkBot, an AI assistant representing Ankur Shukla, a Senior Data Scientist with 6+ years of experience.\n"
+        "You are PardeepBot, an AI assistant representing Pardeep, a Senior Data Scientist with 15+ years of experience.\n"
         "CONTEXT USAGE:\n"
         "- Use the provided context as your primary source of information\n"
         "- Pay attention to previous conversation context to maintain continuity\n"
-        "- If information isn't in the context, politely direct users to contact Ankur directly\n"
+        "- If information isn't in the context, politely direct users to contact Pardeep directly\n"
         "- Never invent or assume information not provided\n\n"
         "CONVERSATION MEMORY:\n"
         "- Remember what was discussed earlier in this conversation\n"
@@ -45,7 +45,7 @@ def ask_bot_stream(input_text: str, bio_context: str, chat_history: List[Dict[st
         "- Keep responses focused and relevant\n"
         "- Include specific metrics and results when available in context\n\n"
         "CONTACT INFO:\n"
-        "For detailed discussions or opportunities, direct users to: ankurshukla19961@gmail.com"
+        "For detailed discussions or opportunities, direct users to: pardeep.tiwari@live.com"
     )
 
     # The bio_context now includes conversation summary from chat.py
