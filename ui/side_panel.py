@@ -43,7 +43,7 @@ def side_page(base_dir: Path):
             <p style="margin: 10px 0;">📧 <a href="mailto:pardeep.tiwari@live.com" style="color: #4A90E2; text-decoration: none;">pardeep.tiwari@live.com</a></p>
             <p style="margin: 10px 0;">📞 <a href="tel:+918527661324" style="color: #4A90E2; text-decoration: none;">+91-8527661324</a></p>
             <p style="margin: 10px 0;">💼 <a href="https://www.linkedin.com/in/pardeeptiwari/" target="_blank" style="color: #4A90E2; text-decoration: none;">LinkedIn Profile</a></p>
-            <p style="margin: 10px 0;">📍 Mumbai, India</p>
+            <p style="margin: 10px 0;">📍 Gurugram, India</p>
         </div>
     </div>
     """, unsafe_allow_html=True)
